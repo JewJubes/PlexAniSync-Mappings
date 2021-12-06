@@ -1605,8 +1605,9 @@ entries:
         anilist-id: 103871
       - season: 2
         anilist-id: 110733
-  - title: "Ookami to Koushinryou"
-    synonyms: "Spice and Wolf"
+  - title: "Spice and Wolf"
+    synonyms: 
+      - "Ookami to Koushinryou"
     seasons:
       - season: 1
         anilist-id: 2966
@@ -1647,8 +1648,9 @@ entries:
         anilist-id: 962
       - season: 3
         anilist-id: 3297  
-  - title: "Bishoujo Senshi Sailor Moon"
-    synonyms: Sailor Moon
+  - title: "Sailor Moon"
+    synonyms: 
+    - "Bishoujo Senshi Sailor Moon"
     seasons:
       - season: 1
         anilist-id: 530
@@ -1660,10 +1662,18 @@ entries:
         anilist-id: 1239
       - season: 5
         anilist-id: 996
-  - title: "Bishoujo Senshi Sailor Moon: Crystal"
-    synonyms: Sailor Moon Crystal
+  - title: Sailor Moon Crystal
+    synonyms: 
+      - "Bishoujo Senshi Sailor Moon: Crystal"
     seasons:
       - season: 1
         anilist-id: 14751
       - season: 2
         anilist-id: 21462
+  - title: The Helpful Fox Senko-san
+    synonyms: 
+      - "Sewayaki Kitsune no Senko-san"
+    seasons:
+      - season: 1
+        anilist-id: 105914
+
